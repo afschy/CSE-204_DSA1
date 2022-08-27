@@ -1,0 +1,6 @@
+- Stack.h contains the Stack ADT
+- Arr.cpp contains the array-based implementation of Stack with the provision to use the same array for two stacks
+- LL.cpp contains the linked list based implementaton of Stack
+- TestMain.cpp contains a main function for testing the stack classes
+- dw_AB.cpp contains the dishwasher simulation using normal ArrayStack and/or LinkedStack
+- dw_C.cpp contains the dishwasher simulation using 1-array-2-stack principle on the ArrayStack class

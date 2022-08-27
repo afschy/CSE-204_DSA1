@@ -1,0 +1,5 @@
+- List.h contains the class declaration and function prototypes of the Link class form which ArrayList and LinkedList classes are derived.
+- Arr.cpp contains the ArrayList class.
+- LL.cpp contains the LinkedList class.
+- TestMain.cpp contains the main function following the guidelines in the assignment description.
+- TNL.cpp contains the implementation of the TNL system according to the assignment description.
